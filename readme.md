@@ -1,8 +1,4 @@
-## Automatic Theme & Plugin Updater for Self-Hosted Themes/Plugins
-
-**Support This Developer: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SE9ZVJUS324UC**
-
-*Any amount is always appreciated*
+## Parapluie Creative Wordpress Plugin Updater
 
 
 ## General Info
